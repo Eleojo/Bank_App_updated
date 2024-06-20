@@ -1,0 +1,59 @@
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.exe
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.deps.json
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.runtimeconfig.json
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.dll
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.pdb
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.AssemblyInfo.cs
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.dll
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\refint\BankApp.dll
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.pdb
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.genruntimeconfig.cache
+C:\Users\Eleojo\OneDrive\Desktop\consoleTaskBreakDown\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\ref\BankApp.dll
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.exe
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.deps.json
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.runtimeconfig.json
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.dll
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.pdb
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.AssemblyInfo.cs
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.dll
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\refint\BankApp.dll
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.pdb
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.genruntimeconfig.cache
+C:\Users\Eleojo\OneDrive\Desktop\DOTNET_DEVELOPMENT\Week2\week2TaskSolution\consoleTaskBreakDown\consoleTaskBreakDown\obj\Debug\net8.0\ref\BankApp.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.exe
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.deps.json
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.runtimeconfig.json
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\BankApp.pdb
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\ConsoleTable.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\ConsoleTableExt.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\ConsoleTables.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.csproj.AssemblyReference.cache
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.AssemblyInfo.cs
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.sourcelink.json
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.csproj.Up2Date
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\obj\Debug\net8.0\refint\BankApp.dll
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.pdb
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\obj\Debug\net8.0\BankApp.genruntimeconfig.cache
+C:\Users\Eleojo\OneDrive\Desktop\week2_task_new\Wee2 task_solution_BanK_App\consoleTaskBreakDown\obj\Debug\net8.0\ref\BankApp.dll

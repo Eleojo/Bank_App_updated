@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "35c2fyzGtPk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eleojo\\OneDrive\\Desktop\\week2_task_new\\Wee2 task_solution_BanK_App\\consoleTaskBreakDown\\BankApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eleojo\\.nuget\\packages\\consoletable\\1.0.1.1\\consoletable.1.0.1.1.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\consoletableext\\3.2.0\\consoletableext.3.2.0.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.6\\microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.6\\microsoft.entityframeworkcore.inmemory.8.0.6.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Eleojo\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
